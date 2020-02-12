@@ -28,3 +28,4 @@ app.controller('randomController', function ($scope, $interval) {
         $scope.start();
     }
 });
+
